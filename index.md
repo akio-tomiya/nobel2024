@@ -49,5 +49,8 @@
 # 世話人
 大野浩史、富谷昭夫 (順不同)
 
+# Information
+This workshop "The 2024 Nobel Prizes in Physics and Chemistry: How AI Has Transformed Natural Sciences, and What’s Next" is taken by Japanese.
+
 # 謝辞
 本講義シリーズは、[科学研究費補助金学術変革領域研究(A)「学習物理学の創成」](https://mlphys.scphys.kyoto-u.ac.jp/)の補助を受けております。
