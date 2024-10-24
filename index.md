@@ -45,7 +45,8 @@
 夜には懇親会を予定しています。
 
 # 参加登録
-詳細が決まり次第、公開します。
+
+[参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSegWVrXXUuogpYAx2a-QKWgjbxWOqMbPKTqFO_0iGnjS4gPxw/viewform)
 
 # 世話人
 大野浩史、富谷昭夫 (順不同)
